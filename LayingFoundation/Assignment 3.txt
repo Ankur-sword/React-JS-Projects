@@ -1,0 +1,27 @@
+>> What is JSX?
+
+> JSX stands for JavaScript XML. 
+It is a syntax extension to JavaScript that allows developers to write HTML-like code in their 
+JavaScript files. JSX is used primarily with the **React** library to create reusable UI components. 
+JSX allows developers to write HTML-like code in their JavaScript files, which is then compiled into 
+regular JavaScript at runtime. This makes it easier to write and add HTML in React, and also makes 
+the code more readable and maintainable.
+
+
+>> Role of type attibute in script tag ?
+
+> The HTML <script> type Attribute is used to specify the MIME type of script and identify the content of the Tag. It has a Default value which is “text/javascript”.
+
+Syntax: 
+
+<script type="media_type">
+
+Attribute Values: It contains a single value i.e media_type which specifies the MIME type of script.
+Common “media_type” values are: 
+
+text/javascript (this is default)
+text/ecmascript
+application/ecmascript
+application/javascript
+
+

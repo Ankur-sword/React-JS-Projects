@@ -1,0 +1,24 @@
+{
+  "name": "layingfoundation",
+  "version": "1.0.0",
+  "description": "Using JSX in Project",
+  
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "Jsx"
+  ],
+  "author": "Ankur Pandey",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
